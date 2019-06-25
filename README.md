@@ -21,8 +21,6 @@ class Form extends Component {
 				</form>
 		);
 	}
-
-
 }
 
 export default Form;

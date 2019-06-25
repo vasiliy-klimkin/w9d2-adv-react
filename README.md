@@ -1,5 +1,8 @@
 ### Advanced Topic: React Best Practices, PWA and MobX
 
+#### [Repo](https://github.com/vasiliy-klimkin/w9d2-adv-react)
+
+
 Today's first part of the lecture focuses on making a react app, followed by refactoring it out so that its efficient.
 
 We made a todo-list the same exact day we made chatty. But this is no efficient so we will refactor all of our components into functional based comonents, moving unnecessary.
